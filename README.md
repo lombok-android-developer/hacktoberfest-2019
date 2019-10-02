@@ -1,5 +1,12 @@
 # hacktoberfest-2019
 
 ## Algoritma Challenge
+put your file in folder algorithm do you use
+Create Algoritm to get Output like date in example:
 
-Pada repository ini anda akan membuat sebuah <b>Algoritma</b> untuk mencetak `tgl`, `bln`,`tahun` untuk acara Kotlin/Everyhere dan Hacktoberfest mataram dengan menggunakan bahsa Kotlin dan jangan lupa untuk cantumkan nama `event` dan `lokasi` event
+#### Example:
+``` 
+Event   = Kotlin/Everywhere & Hacktoberfest
+Lokasi  = Mataram, Lombok NTB
+Tanggal = 26,5,2019
+```
