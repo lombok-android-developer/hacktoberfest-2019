@@ -11,3 +11,7 @@ Tanggal = 26,5,2019
 ```
 
 ### More info in issues
+
+
+# Reward/Swags
+https://github.com/lombok-android-developer/kotlin-everywhere-mataram-web#rewardsswags
