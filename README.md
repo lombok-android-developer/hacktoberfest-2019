@@ -9,3 +9,5 @@ Event   = Kotlin/Everywhere & Hacktoberfest
 Lokasi  = Mataram, Lombok NTB
 Tanggal = 26,5,2019
 ```
+
+### More info in issues
