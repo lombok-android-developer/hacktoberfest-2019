@@ -1,8 +1,7 @@
 # hacktoberfest-2019
 
 ## Algoritma Challenge
-put your file in folder algorithm do you use
-Create Algoritm to get Output like date in example:
+put your file in folder algorithm do you use and Create Algoritm to get Output date like this example
 
 #### Example:
 ``` 
