@@ -3,15 +3,7 @@
 ## Algoritma Challenge
 put your file in folder algorithm do you use and Create Algorithm to get Output date like this example
 
-<<<<<<< HEAD
 
-=======
-#### Example:
-``` 
-Event   = Kotlin/Everywhere & Hacktoberfest
-Lokasi  = Mataram, Lombok NTB
-Tanggal = 26,5,2019
-```
 
 ### More info in issues
 
